@@ -1,0 +1,19 @@
+button {
+	background-color: #4275f5;
+	border-radius: 9px;
+	color: white;
+	padding:7px 14px;
+}
+
+button:hover {
+	background-color: #0a4bf0;
+}
+
+h1{
+	margin-inline-start: 70px;
+	margin-inline-end: 70px;
+}
+
+.headline {
+	text-align: center;
+}
